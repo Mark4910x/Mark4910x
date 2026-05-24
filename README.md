@@ -1,4 +1,4 @@
-# Hi there, I'm [Mark]! 👋
+# Hi there, I'm Mark! 👋
 
 I'm a passionate self-taught developer focused on **Software Development** and **Cybersecurity**. I love solving problems, building clean code, and constantly expanding my technical skills. My ultimate goal is to build a solid portfolio and work remotely for international tech companies.
 
